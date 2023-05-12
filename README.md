@@ -31,4 +31,4 @@ Variety of ideas
 Diversity
 Friendly help without judgement
 
-![My First gif](https://tenor.com/view/funny-dogs-cute-smile-gif-20846490)
+![My First gif](firstGif.gif)
