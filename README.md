@@ -31,8 +31,8 @@ Variety of ideas
 Diversity
 Friendly help without judgement
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 ![Alt Text](https://media.giphy.com/media/fpXxIjftmkk9y/giphy.gif)
 
-![My First gif](firstGif.gif)
+
