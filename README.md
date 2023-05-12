@@ -31,3 +31,4 @@ Variety of ideas
 Diversity
 Friendly help without judgement
 
+![My First gif](firstGif.gif)
